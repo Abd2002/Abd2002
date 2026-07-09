@@ -25,15 +25,21 @@
 
 </div>
 
-<a href="https://www.linkedin.com/in/abdulrehman-habib-47884a215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:abdurrehmanhab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://github.com/Abd2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+---
 
-<br/>
+## 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+Node.js+microservices;Architecting+cloud-native+systems+on+AWS+%26+GCP;3%2B+years+in+fintech+backend+engineering;Open+to+Remote+%26+Relocation" alt="Typing SVG" />
-
-</div>
+```ts
+const abdulrehman = {
+  role: "Backend / Platform Engineer",
+  experience: "3.5+ years",
+  location: "India",
+  openTo: ["Remote", "Hybrid", "Relocation"],
+  mainStack: ["Node.js", "TypeScript", "Express", "React", "Next.js"],
+  cloud: ["AWS", "GCP", "Docker", "Nginx", "PM2"],
+  learning: ["Python", "FastAPI", "LangChain", "Vector Databases", "GenAI"],
+  interest: ["Backend Architecture", "System Design", "AI Agents", "Open Source"]
+};
 
 <br/>
 
