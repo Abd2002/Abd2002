@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Abdulrehman%20Habib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Platform%20Engineer%20%7C%20Node.js%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=220&section=header&text=Abdulrehman%20Habib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Platform%20Engineer%20%7C%20Node.js%20%26%20Cloud&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://www.linkedin.com/in/abdulrehman-habib-47884a215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abdurrehmanhab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
