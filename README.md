@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Abdulrehman%20Habib&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2F%20Platform%20Engineer%20%7C%20Node.js%20%26%20Cloud&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://camo.githubusercontent.com/1e33b52f46024639e579b7dc8b6e1015bbff563765c8645f70527bc2d9836a07/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3046323032372c35303a3243353336342c3130303a303043394646266865696768743d3232302673656374696f6e3d68656164657226746578743d416264756c7265686d616e253230486162696226666f6e7453697a653d343826666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d4261636b656e64253230253246253230506c6174666f726d253230456e67696e6565722532302537432532304e6f64652e6a73253230253236253230436c6f75642664657363416c69676e593d3538266465736353697a653d3138&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/abdulrehman-habib-47884a215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abdurrehmanhab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
